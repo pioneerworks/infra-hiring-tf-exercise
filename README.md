@@ -2,7 +2,7 @@ Homebase Infrastructure Team Terraform Exercise
 ---
 
 # Description
-This is the terraform repository for our ECS infrastucture. The clsuter itself, and all resources required to run it are defined in this repository.
+This is the terraform repository for our ECS infrastucture. The cluster itself, and all resources required to run it are defined in this repository.
 
 All new services, and their respective resources will also be added here.
 
